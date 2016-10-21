@@ -1,0 +1,98 @@
+/* Empty. Add your own CSS if you like */
+.tabs-icon-top tabs-color-active-positive {
+	background-color: #66CCFF;
+
+}
+body{
+	background-color: black;
+}
+.bar-header {
+	background-color:!important;
+    }
+.padding {
+	background-color: white;
+	bac:url("slice68.png");
+	background-size: 365px;
+}
+.logo {
+	height:60px;
+	width:60px;
+	margin-top: 5px;
+	margin-bottom: 50px:;
+
+}
+.h1head {
+	font-size : 24px;
+	font-style:italic;
+	font-family:"tahoma";
+	text-align: center;
+	background-image: url("slice54.png");
+}
+
+td#td1 {
+    background-image:url("adlux1.png");
+    background-position: center;
+    background-size: 170px;
+    background-repeat: no-repeat;
+	border : 10px solid white;
+	padding: 20px;
+	text-align: center;
+}
+td#td2 {
+	background-image:url("adlux1.png");
+    background-position: center;
+    background-size: 170px;
+    background-repeat: no-repeat;
+	border : 10px solid white;
+	padding: 20px;
+	text-align: center;
+}
+td#td3 {
+    background-image:url("adlux1.png");
+    background-position: center;
+    background-size: 170px;
+    background-repeat: no-repeat;
+	border : 10px solid white;
+	padding: 20px;
+	text-align: center;
+}
+td#td4 {
+	background-image:url("adlux1.png");
+    background-position: center;
+    background-size: 170px;
+    background-repeat: no-repeat;
+	border : 10px solid white;
+	padding: 20px;
+	text-align: center;
+	font
+}
+.DashH2 {
+	text-align: center;
+	background-image:url("slice29.png");
+	background-size: 3px;
+	font-family: "tahoma";
+	font-size: 20px; 
+
+
+}
+.DashP1 {
+	text-align: center;
+}
+p#EVP1,#EVP3,#EVP5,#EVP7 {
+	font-size:11px;
+	text-align: center;
+	font-style:bold;
+	
+	background-image:url("slice63.png");
+}
+p#EVP2,#EVP4,#EVP6 {
+	font-size:11px;
+	text-align: center;
+	font-style:bold;
+
+}
+p#EVP8 {
+	font-size:11px;
+	text-align: center;
+	text-decoration: underline;
+}
